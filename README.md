@@ -32,9 +32,6 @@ This dataset contains detection records from simulated forensic foot searches co
 | `Notes` | Free-text field for any additional observations or comments recorded by the researcher. |
 | `Sort Order` | Numeric field used to order records for processing or display purposes. |
 
-## How to Cite
-
-Citation details will be added upon Zenodo deposit. DOI: [TBD]
 
 ## Ethics and Funding
 
